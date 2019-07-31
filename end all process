@@ -37,4 +37,4 @@ taskkill /F /IM PMaestro.exe
 taskkill /F /IM pmBackupUtil.exe
 taskkill /F /IM pmCompare.exe
 taskkill /F /IM pmTradingCharts.exe
-taskkill /F /IM pcoagent.exe
+
